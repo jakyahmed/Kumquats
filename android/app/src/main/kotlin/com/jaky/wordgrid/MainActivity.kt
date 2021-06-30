@@ -1,4 +1,4 @@
-package com.dozingcatsoftware.wordgrid
+package com.jaky.wordgrid
 
 import io.flutter.embedding.android.FlutterActivity
 
